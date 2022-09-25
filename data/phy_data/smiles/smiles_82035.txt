@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)N[C@@H](CC(=O)N)C(=O)O

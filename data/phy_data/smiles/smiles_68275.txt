@@ -1,0 +1,1 @@
+CNC1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-]

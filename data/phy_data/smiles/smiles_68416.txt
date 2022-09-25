@@ -1,0 +1,1 @@
+C=CCC1(C(=O)NC(=O)NC1=O)CC(=C)Br

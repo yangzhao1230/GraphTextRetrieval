@@ -1,0 +1,1 @@
+CC1=C(C(CCC1)(C)C)CC=O

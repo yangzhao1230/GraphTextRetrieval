@@ -1,0 +1,1 @@
+C1=CC(=CC(=C1)N=NC2=C(C=C(C=C2)N)N)N=NC3=C(C=C(C=C3)N)N.Cl.Cl

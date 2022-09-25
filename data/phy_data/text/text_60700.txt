@@ -1,0 +1,1 @@
+Topotecan is a pyranoindolizinoquinoline used as an antineoplastic agent. It is a derivative of camptothecin and works by binding to the topoisomerase I-DNA complex and preventing religation of these 328 single strand breaks. It has a role as an EC 5.99.1.2 (DNA topoisomerase) inhibitor and an antineoplastic agent.

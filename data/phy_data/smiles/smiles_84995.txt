@@ -1,0 +1,1 @@
+C1=CC2=C(C=CC(=C2)Br)C=C1O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O

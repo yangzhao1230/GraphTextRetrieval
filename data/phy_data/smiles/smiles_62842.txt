@@ -1,0 +1,1 @@
+CC(=CCCC(C)(C#C)O)C

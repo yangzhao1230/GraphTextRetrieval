@@ -1,0 +1,1 @@
+C1=C(NC=N1)CCN.OP(=O)(O)O.OP(=O)(O)O

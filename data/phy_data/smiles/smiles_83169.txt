@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O

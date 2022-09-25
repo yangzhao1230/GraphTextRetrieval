@@ -1,0 +1,1 @@
+CC1=CC=CC=C1CO[C@@H]2C[C@]3(CC[C@@]2(O3)C)C(C)C

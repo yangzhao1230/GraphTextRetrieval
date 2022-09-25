@@ -1,0 +1,1 @@
+CC1=CC[C@@H]2C3C1[C@]2(CC[C@H]3C(C)C)C

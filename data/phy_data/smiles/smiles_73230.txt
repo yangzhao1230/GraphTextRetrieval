@@ -1,0 +1,1 @@
+C[C@@]12[C@@H](O1)[C@@H](OC2=O)C3=C(C=C4C(=C3)C=CC(=O)O4)OC

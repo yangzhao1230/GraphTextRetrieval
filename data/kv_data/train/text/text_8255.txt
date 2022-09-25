@@ -1,0 +1,1 @@
+it is a single-stranded DNA oligonucleotide consisting of two thymidine molecules linked (3'->5') and also with a C6-C4 bond. It results from irradiation at 254 nm of normal dTpT (PDB entry: 1EHL). 

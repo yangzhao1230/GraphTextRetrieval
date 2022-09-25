@@ -1,0 +1,1 @@
+CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)O2)C3=NC4=C(O3)C=CC(=C4)S(=O)(=O)N

@@ -1,0 +1,1 @@
+CN1C(=O)[C@]23[C@@H](C4=COC=C[C@H]5[C@@H]4N2C(=O)[C@]1([C@H](C6=CC(=C(C=C6)O)OC7=C(C=CC=C7OC)C(=O)O5)O)SS3)O

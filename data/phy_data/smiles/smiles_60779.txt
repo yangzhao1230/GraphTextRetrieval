@@ -1,0 +1,1 @@
+CCC1=CC2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O

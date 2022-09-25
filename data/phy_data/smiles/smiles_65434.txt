@@ -1,0 +1,1 @@
+C[C@H]1CCC[C@H](CCCCCC2=C(C(=CC(=C2)O)O)C(=O)O1)O

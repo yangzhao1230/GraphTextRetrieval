@@ -1,0 +1,1 @@
+CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@@H]5CC(CC[C@@]5(CC=C4[C@@]3(CC[C@H]2C1(C)C)C)C)(C)C)C)C

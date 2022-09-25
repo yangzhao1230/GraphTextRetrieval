@@ -1,0 +1,1 @@
+A ZINC-dependent carboxypeptidase primary found in the DIGESTIVE SYSTEM. The enzyme catalyzes the preferential cleavage of a C-terminal peptidyl-L-lysine or arginine. It was formerly classified as EC 3.4.2.2 and EC 3.4.12.3. 

@@ -1,0 +1,1 @@
+Ancriviroc is a C-C Chemokine Receptor Type 5 (CCR5) antagonist with activity against the human immunodeficiency virus, HIV-1. Ancriviroc is an orally bioavailable small molecule inhibitor of HIV-1 entry via CCR5 coreceptor interaction. 

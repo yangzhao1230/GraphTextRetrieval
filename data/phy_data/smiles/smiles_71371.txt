@@ -1,0 +1,1 @@
+C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)[O-])N)I)I)O.C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)C[C@@H](C(=O)[O-])N.[Na+].[Na+]

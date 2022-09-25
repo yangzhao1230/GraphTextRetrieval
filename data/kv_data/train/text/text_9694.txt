@@ -1,0 +1,1 @@
+it is a polynucleotide comprised of guanosine units connected via 3'->5' phosphodiester linkages. It contains a GMP 3'-end residue, a GMP 5'-end residue and a guanosine 5'-monophosphate residue. 

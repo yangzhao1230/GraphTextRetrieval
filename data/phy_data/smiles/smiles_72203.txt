@@ -1,0 +1,1 @@
+CC1=CC(=C(C2=CC(=C(C=C2)N)S(=O)(=O)O)C3=CC(=C(C=C3)N)S(=O)(=O)O)C=C(C1=N)S(=O)(=O)O

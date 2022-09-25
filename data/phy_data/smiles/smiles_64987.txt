@@ -1,0 +1,1 @@
+CC(CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O

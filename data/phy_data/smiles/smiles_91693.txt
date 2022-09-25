@@ -1,0 +1,1 @@
+CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl

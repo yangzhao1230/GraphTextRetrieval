@@ -1,0 +1,1 @@
+CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)N[C@H]3[C@@H]4N(C3=O)C(=C(CS4)COC(=O)C)C(=O)O

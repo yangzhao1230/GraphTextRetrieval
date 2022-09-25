@@ -1,0 +1,1 @@
+CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)SC)OC)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O

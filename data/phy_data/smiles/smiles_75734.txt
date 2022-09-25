@@ -1,0 +1,1 @@
+C1=NC2=C(NC1=O)NC(=O)NC2=O

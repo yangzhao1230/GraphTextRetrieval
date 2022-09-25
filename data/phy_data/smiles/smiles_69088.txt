@@ -1,0 +1,1 @@
+CC1=CC(=O)NC2=CC=CC=C12

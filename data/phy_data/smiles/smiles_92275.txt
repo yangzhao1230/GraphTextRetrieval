@@ -1,0 +1,1 @@
+CC(C)CC(=O)OCC1=CO[C@H]([C@H]2C1=C[C@@H]([C@]23CO3)OC(=O)C)OC(=O)CC(C)C

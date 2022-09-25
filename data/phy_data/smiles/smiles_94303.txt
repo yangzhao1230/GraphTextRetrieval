@@ -1,0 +1,1 @@
+CC1COC2=C(C(=O)C(=O)C3=C(C=CC1=C32)C)C

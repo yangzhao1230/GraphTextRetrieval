@@ -1,0 +1,1 @@
+C1C(=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@H](C3=CC=CC=C3)NC(=O)C4=C(NC=N4)C(=O)O)C(=O)[O-])C[N+]5=CC=C(C=C5)CCS(=O)(=O)[O-].[Na+]

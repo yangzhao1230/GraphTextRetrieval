@@ -1,0 +1,1 @@
+C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)S(=O)(=O)O)NC5=NC(=NC(=N5)NC6=CC(=CC=C6)S(=O)(=O)O)Cl)S(=O)(=O)O)N

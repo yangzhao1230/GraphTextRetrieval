@@ -1,0 +1,1 @@
+C1=CC=C2C=C(C=CC2=C1)CO

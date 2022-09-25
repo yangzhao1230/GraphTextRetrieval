@@ -1,0 +1,1 @@
+it is eHNA of absolute configuration 2R,3S. Selective inhibitor of cGMP-stimulated phosphodiesterase (PDE2) (IC50 = 0.8 - 4 mM). Also a potent inhibitor of adenosine deaminase. It has a role as an EC 3.5.4.4 (adenosine deaminase) inhibitor and an EC 3.1.4.* (phosphoric diester hydrolase) inhibitor. It is a conjugate base of a it(1+). It is an enantiomer of a (2S,3R)-EHNA. 

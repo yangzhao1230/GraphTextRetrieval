@@ -1,0 +1,1 @@
+CC1CCC2=C(C1)C(=CO2)C

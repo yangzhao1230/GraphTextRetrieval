@@ -1,0 +1,1 @@
+C1[C@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(C4=C(C=C3)C(=O)C5=CC=CC=C5C4=O)O)O)O)O)O)O)O

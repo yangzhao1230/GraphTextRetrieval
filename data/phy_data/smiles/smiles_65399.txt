@@ -1,0 +1,1 @@
+CN1C2=NC=NC3=C2C(=CN3[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N

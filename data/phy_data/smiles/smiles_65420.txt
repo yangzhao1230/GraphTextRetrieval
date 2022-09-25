@@ -1,0 +1,1 @@
+CC1(OC[C@H]2[C@@H](O1)[C@H]3[C@@](O2)(OC(O3)(C)C)C(=O)O)C

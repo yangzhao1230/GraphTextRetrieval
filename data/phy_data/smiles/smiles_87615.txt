@@ -1,0 +1,1 @@
+C1=CC=C(C=C1)CNC2=CC=C(C3=NON=C23)[N+](=O)[O-]

@@ -1,0 +1,1 @@
+C1[C@@H](N=C(S1)C2=NC3=C(S2)C=C(C=C3)O)C(=O)O

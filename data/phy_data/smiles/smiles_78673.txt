@@ -1,0 +1,1 @@
+CC(=C)[C@H]1CC2=C(O1)C=CC(=C2)C(=O)C

@@ -1,0 +1,1 @@
+CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)O)C=C3)C5=CC=CC=C5

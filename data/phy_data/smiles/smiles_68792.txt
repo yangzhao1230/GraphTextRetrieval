@@ -1,0 +1,1 @@
+CN1C(=CN=C1COC2=CC=C(C=C2)SC)[N+](=O)[O-]

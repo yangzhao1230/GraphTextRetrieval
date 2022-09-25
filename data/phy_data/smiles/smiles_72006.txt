@@ -1,0 +1,1 @@
+CC(C)NCC(COC1=CC=CC2=C1OCC(C2)O[N+](=O)[O-])O

@@ -1,0 +1,1 @@
+CCN(CC)C1=CC2=C(C=C1)N=C3C=CC(=[N+](CC)CC)C=C3O2.[O-]Cl(=O)(=O)=O

@@ -1,0 +1,1 @@
+it is a quinazoline folate analogue with antineoplastic activity. After transport into cells via the reduced folate carrier, it undergoes intracellular polyglutamation and blocks the folate-binding site of thymidylate synthase, thereby inhibiting tetrahydrofolate activity and DNA replication and repair and resulting in cytotoxicity. (NCI04) 

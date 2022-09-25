@@ -1,0 +1,1 @@
+CC(=O)N[C@@H](CSCC1=C(C=C2C(=C1O)C(=O)C=C(C2=O)OC)OC)C(=O)O

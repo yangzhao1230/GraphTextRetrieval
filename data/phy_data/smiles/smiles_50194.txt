@@ -1,0 +1,1 @@
+CON=C(C1=CSC(=N1)N)C(=O)N[C@H]2[C@@H]3N(C2=O)C(=CCS3)C(=O)O

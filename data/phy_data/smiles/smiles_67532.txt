@@ -1,0 +1,1 @@
+C1=C(C=C(C(=C1Br)O)Br)C[C@@H](C(=O)O)N

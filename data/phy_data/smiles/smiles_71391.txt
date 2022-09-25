@@ -1,0 +1,1 @@
+CC1C(=O)OC(C(=O)O1)C.C1C(=O)OCC(=O)O1

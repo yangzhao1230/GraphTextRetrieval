@@ -1,0 +1,1 @@
+CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O

@@ -1,0 +1,1 @@
+[Li+].[Li+].C1=C(C=C2C3=C1C(=C(C=C3C(=O)N(C2=O)NC(=O)NN)S(=O)(=O)[O-])N)S(=O)(=O)[O-]

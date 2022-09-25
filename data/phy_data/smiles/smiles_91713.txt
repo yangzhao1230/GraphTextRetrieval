@@ -1,0 +1,1 @@
+CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]

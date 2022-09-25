@@ -1,0 +1,1 @@
+CC1=CC[C@@H]2[C@@]([C@@]13CC[C@@](O3)(C)CC(=O)O)(CCCC2(C)C)C

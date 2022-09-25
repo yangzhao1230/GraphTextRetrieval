@@ -1,0 +1,1 @@
+C1=CC=C2C(=C1)N(C3=C(S2=O)C=CC(=C3)Cl)CCCN

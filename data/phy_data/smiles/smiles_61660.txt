@@ -1,0 +1,1 @@
+CC(=O)SCC1=CC=CO1

@@ -1,0 +1,1 @@
+C1=CC=C(C(=C1)C(=O)[O-])O.C1=CC=C(C(=C1)C(=O)[O-])O.[Mg+2]

@@ -1,0 +1,1 @@
+C1C2=CC(=C(C=C2[C@H]3[C@@]1(COC4=C3C=CC(=C4)O)O)O)O

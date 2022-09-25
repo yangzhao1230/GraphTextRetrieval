@@ -1,0 +1,1 @@
+CN(C1=C(C=C(C=C1)Cl)C(=O)C2=CC=CC=C2)C(=O)CNC(=O)[C@H](CCCCN)N

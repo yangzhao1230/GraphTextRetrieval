@@ -1,0 +1,1 @@
+COC1=C(C(=NC(=C1Cl)OC)C(Cl)(Cl)Cl)Cl

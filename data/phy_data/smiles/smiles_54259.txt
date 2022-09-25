@@ -1,0 +1,1 @@
+CCC(C)(C)C1=CC=C(C=C1)CC(C)CN2C[C@H](O[C@H](C2)C)C.Cl

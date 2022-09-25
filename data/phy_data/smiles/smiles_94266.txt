@@ -1,0 +1,1 @@
+CC(C)C12CC1C(=C)C(C2)OC(=O)C

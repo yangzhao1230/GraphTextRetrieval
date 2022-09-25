@@ -1,0 +1,1 @@
+C1=CC2=C(C3=C(C=C2)N=CC=C3)N=C1

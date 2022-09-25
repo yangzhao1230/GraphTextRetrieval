@@ -1,0 +1,1 @@
+DT4 is an oligonucleotide comprised of four thymidine residues connected via 3'->5' phosphodiester linkages. It has a role as an epitope. It contains a thymidine 5'-monophosphate residue. 

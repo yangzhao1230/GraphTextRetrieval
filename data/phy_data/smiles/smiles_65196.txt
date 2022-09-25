@@ -1,0 +1,1 @@
+CCNC1=CC2=C(C=C1C)C(=C3C=C(C(=[NH+]CC)C=C3O2)C)C4=C(C=C(C=C4)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+]

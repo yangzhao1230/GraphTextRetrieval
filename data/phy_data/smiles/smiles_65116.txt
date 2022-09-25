@@ -1,0 +1,1 @@
+CC(=O)OC1=CNC2=C1C(=C(C=C2)Br)Cl

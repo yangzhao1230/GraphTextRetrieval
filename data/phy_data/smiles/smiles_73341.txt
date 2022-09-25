@@ -1,0 +1,1 @@
+CCCC1=NC=C(C(=N1)N)C[N+]2=CC=CC=C2C.[Cl-]

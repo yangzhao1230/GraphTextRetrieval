@@ -1,0 +1,1 @@
+C1=CC(=C(C#N)C#N)C=CC1=C(C#N)C#N

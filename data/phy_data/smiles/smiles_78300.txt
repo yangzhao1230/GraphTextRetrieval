@@ -1,0 +1,1 @@
+CC1=NC=C2C(=C1O)COC2=O

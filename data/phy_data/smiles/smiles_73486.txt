@@ -1,0 +1,1 @@
+CC[C@H](C)C1=C(C2=CC(=O)C(=C(C2=CO1)O)C(=O)O)C

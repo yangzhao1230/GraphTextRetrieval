@@ -1,0 +1,1 @@
+C1=NC(=C2C(=N1)N(C=N2)CCOCP(=O)(O)O)N

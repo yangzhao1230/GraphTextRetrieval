@@ -1,0 +1,1 @@
+C[C@@H](C1=C[C@@]2(C=C[C@H]3[C@@H]2[C@@H](OC=C3C(=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC1=O)O

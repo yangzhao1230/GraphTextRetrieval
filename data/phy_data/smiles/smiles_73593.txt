@@ -1,0 +1,1 @@
+CC[C@]1(C[C@@H](C2=C(C3=C(C=C2[C@H]1C(=O)OC)C(=O)C4=C(C=CC(=C4C3=O)O)O)O)O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O[C@H]6C[C@H]7[C@@H]([C@@H](O6)C)O[C@H]8[C@@H](O7)CC(=O)[C@@H](O8)C)N(C)C)O

@@ -1,0 +1,1 @@
+COC1=NC(=NC2=C1N=CN2[C@H]3C[C@@H]([C@H](O3)CO)O)N

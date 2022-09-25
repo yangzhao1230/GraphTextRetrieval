@@ -1,0 +1,1 @@
+C[C@]1(CO1)C(=O)O[C@H]2CC(=C)[C@@H]3C[C@H]([C@]4([C@H]3[C@H]5[C@@H]2C(=C)C(=O)O5)CO4)O

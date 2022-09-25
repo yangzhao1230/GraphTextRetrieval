@@ -1,0 +1,1 @@
+CN1C(=O)C2=C(N=C1N)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O

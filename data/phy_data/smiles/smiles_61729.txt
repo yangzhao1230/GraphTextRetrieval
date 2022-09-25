@@ -1,0 +1,1 @@
+C12=C(C(=C(C(=C1Cl)Br)Cl)Br)C3=NC4=NC(=NC5=C6C(=C([N-]5)N=C7C8=C(C(=C(C(=C8Br)Cl)Cl)Cl)C(=N7)N=C2[N-]3)C(=C(C(=C6Br)Cl)Br)Cl)C9=C4C(=C(C(=C9Cl)Br)Cl)Cl.[Cu+2]

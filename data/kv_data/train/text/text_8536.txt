@@ -1,0 +1,1 @@
+A standard reagent for the determination of reactive sulfhydryl groups by absorbance measurements. It is used primarily for the determination of sulfhydryl and disulfide groups in proteins. The color produced is due to the formation of a thio anion, 3-carboxyl-4-nitrothiophenolate. 
