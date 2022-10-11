@@ -4,9 +4,38 @@ Source code for cross-modality retrieval for *[Natural Language-informed Underst
 ## Workspace Prepare
 If you want to explore our job, you can following the instructions in this section
 - Step 1: Download the zip or clone the repository to your workspace.
-- Step 2: Download the `MoMu-S.ckpt` and `MoMu-K.ckpt` from [BaiduNetdisk](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing). Create a new directory by `mkdir all_checkpoints` and then put the downloaded model under the directory.
-- Step 3: Download files from [Sci-Bert](https://huggingface.co/allenai/scibert_scivocab_uncased/tree/main). Create a new directory by `mkdir bert_pretrained` and the put these files under the directory.
-- Step 4: Install python environments by `pip install -r requirements.txt`
+- Step 2: Download the `littlegin=graphclinit_bert=kvplm_epoch=299-step=18300.ckpt` and `littlegin=graphclinit_bert=scibert_epoch=299-step=18300.ckpt` from [BaiduNetdisk](https://pan.baidu.com/share/init?surl=jvMP_ysQGTMd_2sTLUD45A)(the Password is 1234). Create a new directory by `mkdir all_checkpoints` and then put the downloaded model under the directory. Rename `littlegin=graphclinit_bert=kvplm_epoch=299-step=18300.ckpt` to `MoMu-K.ckpt` and `littlegin=graphclinit_bert=scibert_epoch=299-step=18300.ckpt` to `MoMu-S.ckpt`
+- Step 3: Download files from [Sci-Bert](https://huggingface.co/allenai/scibert_scivocab_uncased/tree/main). Create a new directory by `mkdir bert_pretrained` and then put these files under the directory.
+- Step 4: Install python environment. Some important requirements are listed as follows:
+  ```
+  Ubuntu 16.04.7
+  python 3.8.13
+  cuda 10.1
+
+  # pytorch
+  pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+
+  # torch_geometric 
+  # you can download the following *.whl files in https://data.pyg.org/whl/
+  wget https://data.pyg.org/whl/torch-1.8.0%2Bcu101/torch_cluster-1.5.9-cp38-cp38-linux_x86_64.whl
+  wget https://data.pyg.org/whl/torch-1.8.0%2Bcu101/torch_scatter-2.0.8-cp38-cp38-linux_x86_64.whl
+  wget https://data.pyg.org/whl/torch-1.8.0%2Bcu101/torch_sparse-0.6.12-cp38-cp38-linux_x86_64.whl
+  pip install torch_cluster-1.5.9-cp38-cp38-linux_x86_64.whl
+  pip install torch_scatter-2.0.8-cp38-cp38-linux_x86_64.whl
+  pip install torch_sparse-0.6.12-cp38-cp38-linux_x86_64.whl
+  pip install torch-geometric
+
+  # transformers (4.18.0)
+  pip install transformers 
+
+  # rdkit
+  pip install rdkit-pypi
+
+  # ogb
+  pip install ogb
+
+  # pytorch_lightning (1.6.2)
+  pip install pytorch_lightning 
 ## File Usage
 The users may be going to use or edit the files below:
 - main.py: Fine-tuning and testing code for cross-modality retrival. 
