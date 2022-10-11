@@ -70,7 +70,7 @@ python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_
 ```
 python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth_test data/kv_data/test
 ```
-## 3. Finetuning and Testing
+## Finetuning and Testing
 To make MoMu satisfy the cross-modality retrieval task better, you can finetune MoMu and then test. Befor fintuning, you should create a new directory to save finetuned model by `mkdir finetune_save`. 
 #### 1. finetuning on kv_data with paragraph-level and testing:
 ```
