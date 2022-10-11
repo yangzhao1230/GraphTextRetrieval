@@ -75,18 +75,18 @@ To make MoMu satisfy the cross-modality retrieval task better, you can finetune 
 #### 1. finetuning on kv_data with paragraph-level and testing:
 ```
 # finetune MoMu and save as 'finetune_save/finetune_para.pt '
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 0 --if_zeroshot 0 --pth_test data/kv_data/test
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 0 --if_zeroshot 0 
 
 # test with fintuned model
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 2 --if_zeroshot 0 --pth_test data/kv_data/test
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 2 --if_zeroshot 0
 ```
 #### 2. finetuning on kv_data with sentence-level and testing:
 ```
 # finetune MoMu and save as 'finetune_save/finetune_sent.pt '
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 0 --if_zeroshot 0 --pth_test data/kv_data/test
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 0 --if_zeroshot 0
 
 # test with fintuned model
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 2 --if_zeroshot 0 --pth_test data/kv_data/test
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 2 --if_zeroshot 0 
 ```
 ## Sample Result
 Taking zeroshot testing on phy_data with paragraph-level as an example, we show the excuting result here.
