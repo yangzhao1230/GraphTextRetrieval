@@ -6,7 +6,7 @@ If you want to explore our job, you can following the instructions in this secti
 - Step 1: Download the zip or clone the repository to your workspace.
 - Step 2: Download the `littlegin=graphclinit_bert=kvplm_epoch=299-step=18300.ckpt` and `littlegin=graphclinit_bert=scibert_epoch=299-step=18300.ckpt` from [BaiduNetdisk](https://pan.baidu.com/share/init?surl=jvMP_ysQGTMd_2sTLUD45A)(the Password is 1234). Create a new directory by `mkdir all_checkpoints` and then put the downloaded model under the directory. Rename `littlegin=graphclinit_bert=kvplm_epoch=299-step=18300.ckpt` to `MoMu-K.ckpt` and `littlegin=graphclinit_bert=scibert_epoch=299-step=18300.ckpt` to `MoMu-S.ckpt`
 - Step 3: Download files from [Sci-Bert](https://huggingface.co/allenai/scibert_scivocab_uncased/tree/main). Create a new directory by `mkdir bert_pretrained` and then put these files under the directory.
-- Step 4: Install python environment. Some important requirements are listed as follows:
+- Step 4: Install python environment. Some important requirements are listed as follows(In fact, the environment is the almost same as [GraphTextPretrain](https://github.com/ddz16/GraphTextPretrain), so you do not need to install again if you have follow its instructions):
   ```
   Ubuntu 16.04.7
   python 3.8.13
