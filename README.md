@@ -71,7 +71,8 @@ Test Acc2: 0.4317727436174038
 Rec@20 1: 0.4579036317871269
 Rec@20 2: 0.4348471772743617
 ```
-
+## Acknowledgment
+This repository uses some code from [KV-PLM](https://github.com/thunlp/KV-PLM). Thanks to the original authors for their work!
 ## Citation
 Please cite the following paper if you use the codes:
 
