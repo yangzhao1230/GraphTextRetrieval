@@ -1,61 +1,84 @@
 
 # GraphTextRetrieval
+Source code for cross-modality retrieval for *[Natural Language-informed Understanding of Molecule Graphs](https://arxiv.org/abs/2209.05481)*. 
+## Workspace Prepare
+If you want to explore our job, you can following the instructions in this section
+- Step 1: Download the zip or clone the repository to your workspace.
+- Step 2: Download the `MoMu-S.ckpt` and `MoMu-K.ckpt` from [BaiduNetdisk](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing). Create a new directory by `mkdir all_checkpoints` and then put the downloaded model under the directory.
+- Step 3: Download files from [Sci-Bert](https://huggingface.co/allenai/scibert_scivocab_uncased/tree/main). Create a new directory by `mkdir bert_pretrained` and the put these files under the directory.
+- Step 4: Install python environments by `pip install -r requirements.txt`
+## File Usage
+The users may be going to use or edit the files below:
+- main.py: Fine-tuning and testing code for cross-modality retrival. 
+- data/
+  - kv_data/: Pairs of (Graph, Text) data from  [KV-PLM](https://github.com/thunlp/KV-PLM)
+  - phy_data/: Pairs of (Graph, Text) data collected by us
+- all_checkpoints/
+  - MoMu-S.ckpt: Pretrained model  of MoMu-S
+  - MoMu-K.ckpt: Pretrained model of MoMu-K
+- data_provider/
+  - match_dataset.py: Dataloader file
+- model/
+  - bert.py: Text encoder
+  - gin_model.py: Graph encoder
+  - constrastiv_gin.py Constrastive model with text encoder and graph encoder
 
-## 1. Checkpoints Preprocessing
-You should download the folder from <https://huggingface.co/allenai/scibert_scivocab_uncased> (Pre-trained Sci-Bert), put it into the project and rename it as "bert_pretrained". Then you should put "MoMu-S" and "MoMu-K" into the folder "all_checkpoints".
+## Zeroshot Testing
+Zeroshot testing means cross-modality retrieval with origin MoMu. You can conduct zeroshot testing with differen settings as follows:
+#### 1. zeroshot testing on phy_data with paragraph-level:
+```
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth_test data/phy_data
+```
+#### 2. zeroshot testing on phy_data with sentence-level:
+```
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth_test data/phy_data
+```
+#### 3. zeroshot testing on kv_data with paragraph-level:
+```
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth_test data/kv_data/test
+```
+#### 4. zeroshot testing on phy_data with sentence-level:
+```
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth_test data/kv_data/test
+```
+## 3. Finetuning and Testing
+To make MoMu satisfy the cross-modality retrieval task better, you can finetune MoMu and then test. Befor fintuning, you should create a new directory to save finetuned model by `mkdir finetune_save`. 
+#### 1. finetuning on kv_data with paragraph-level and testing:
+```
+# finetune MoMu and save as 'finetune_save/finetune_para.pt '
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 0 --if_zeroshot 0 --pth_test data/kv_data/test
 
-## 2. Zeroshot Testing
-#### zeroshot testing on our datasets with paragraph-level:
+# test with fintuned model
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_para.pt --data_type 0 --if_test 2 --if_zeroshot 0 --pth_test data/kv_data/test
 ```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth-test data/phy_data/test
+#### 2. finetuning on kv_data with sentence-level and testing:
 ```
-#### zeroshot testing on our datasets with sentence-level:
+# finetune MoMu and save as 'finetune_save/finetune_sent.pt '
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 0 --if_zeroshot 0 --pth_test data/kv_data/test
+
+# test with fintuned model
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune_sent.pt --data_type 1 --if_test 2 --if_zeroshot 0 --pth_test data/kv_data/test
 ```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth-test data/phy_data/test
+## Sample Result
+Taking zeroshot testing on phy_data with paragraph-level as an example, we show the excuting result here.
+It takes almost 10s to calculate the accuracy of retrieval, while calculating the Rec@20 takes about 2mins. 
 ```
-#### zeroshot testing on PCdes with paragraph-level:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth-test data/kv_data/test
-```
-#### zeroshot testing on our datasets with sentence-level:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth-test data/kv_data/test
-```
-## 3. Model Finetuning
-#### finetuning on our datasets with paragraph-level and testing:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 0 --if_test 0 --if_zeroshot 0 --pth-test data/phy_data/test
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 0 --if_test 2 --if_zeroshot 0 --pth-test data/phy_data/test
-```
-#### finetuning on our datasets with sentence-level and testing:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 1 --if_test 0 --if_zeroshot 0 --pth-test data/phy_data/test
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 1 --if_test 2 --if_zeroshot 0 --pth-test data/phy_data/test
-```
-#### finetuning on PCdes with paragraph-level and testing:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 0 --if_test 0 --if_zeroshot 0 --pth-test data/kv_data/test
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 0 --if_test 2 --if_zeroshot 0 --pth-test data/kv_data/test
-```
-#### finetuning on PCdes with sentence-level and testing:
-```
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 1 --if_test 0 --if_zeroshot 0 --pth-test data/kv_data/test
-python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --output finetune_save/finetune.pt --data_type 1 --if_test 2 --if_zeroshot 0 --pth-test data/kv_data/test
+python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth_test data/phy_data
+Namespace(batch_size=64, data_type=0, epoch=30, graph_aug='dnodes', if_test=2, if_zeroshot=1, init_checkpoint='all_checkpoints/MoMu-S.ckpt', lr=5e-05, margin=0.2, output='finetune_save/sent_MoMu-S_73.pt', pth_dev='data/kv_data/dev', pth_test='data/phy_data', pth_train='data/kv_data/train', seed=73, text_max_len=128, total_steps=5000, warmup=0.2, weight_decay=0)
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 87/87 [00:16<00:00,  5.31it/s]
+Test Acc1: 0.4565587918015103
+Test Acc2: 0.4317727436174038
+Rec@20 1: 0.4579036317871269
+Rec@20 2: 0.4348471772743617
 ```
 
-## 4. Citation
-Please refer to our paper:
+## Citation
+Please cite the following paper if you use the codes:
 
-Su B, Du D, Yang Z, et al. A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language[J]. arXiv preprint arXiv:2209.05481, 2022.
-
-```
-https://arxiv.org/abs/2209.05481
-```
 ```
 @article{su2022molecular,
-  title={A Molecular Multimodal Foundation **Model** Associating Molecule Graphs with Natural Language},
-  author={Su, Bing and Du, Dazhao and Yang, Zhao and Zhou, Yujie and Li, Jiangmeng and Rao, Anyi and Sun, Hao and Lu, Zhiwu and Wen, Ji-Rong},
-  journal={arXiv preprint arXiv:2209.05481},
+  title={Natural Language-informed Understanding of Molecule Graphs},
+  author={Bing Su, Dazhao Du, Zhao Yang, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen},
   year={2022}
 }
 ```

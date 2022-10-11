@@ -10,6 +10,7 @@ from data_provider.sent_dataset import GINSentDataset
 import torch_geometric
 from optimization import BertAdam, warmup_linear
 from torch.utils.data import RandomSampler
+import os
 
 def prepare_model_and_optimizer(args, device):
     model = GINSimclr.load_from_checkpoint(args.init_checkpoint)
@@ -80,6 +81,8 @@ def Eval(model, dataloader, device, args):
                 text_rep_total = torch.cat((text_rep_total, text_rep), axis=0)
      
     if args.if_test == 2: #save rep to caculate rec@20
+        if not os.path.exists('output'):
+            os.mkdir('output')
         np.save('output/graph_rep.npy', graph_rep_total.cpu())
         np.save('output/text_rep.npy', text_rep_total.cpu())
 
@@ -184,7 +187,7 @@ def main(args):
                     if idx[-1-j]==i:
                         rec1.append(j)
                         break
-            print(sum( (np.array(rec1)<20).astype(int) ) / graph_len)
+            print(f'Rec@20 1: {sum( (np.array(rec1)<20).astype(int) ) / graph_len}')
             score2 = torch.zeros(graph_len, graph_len)
             for i in range(graph_len):
                 score2[i] = torch.cosine_similarity(text_rep[i], graph_rep, dim=-1)
@@ -195,7 +198,7 @@ def main(args):
                     if idx[-1-j]==i:
                         rec2.append(j)
                         break
-            print(sum( (np.array(rec2)<20).astype(int) ) / graph_len)
+            print(f'Rec@20 2: {sum( (np.array(rec2)<20).astype(int) ) / graph_len}')
         
         else: #sent-level
             if args.if_zeroshot == 0: #finetuned
@@ -234,7 +237,7 @@ def main(args):
                     if idx[-1-j]==i:
                         rec1.append(j)
                         break
-            print(sum( (np.array(rec1)<20).astype(int) ) / graph_len)
+            print(f'Rec@20 1: {sum( (np.array(rec1)<20).astype(int) ) / graph_len}')
 
             score_tmp = torch.zeros(text_len, graph_len)
             for i in range(text_len):
@@ -257,7 +260,7 @@ def main(args):
                     if idx[-1-j]==i:
                         rec2.append(j)
                         break
-            print(sum( (np.array(rec2)<20).astype(int) ) / graph_len)
+            print(f'Rec@20 2: {sum( (np.array(rec2)<20).astype(int) ) / graph_len}')
         
         return
 
