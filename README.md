@@ -40,7 +40,7 @@ If you want to explore our job, you can following the instructions in this secti
 The users may be going to use or edit the files below:
 - main.py: Fine-tuning and testing code for cross-modality retrival. 
 - data/
-  - kv_data/: Pairs of (Graph, Text) data from  [KV-PLM](https://github.com/thunlp/KV-PLM)
+  - kv_data/: Pairs of (Graph, Text) data from  [KV-PLM](https://github.com/thunlp/KV-PLM) a.k.a PCdes
   - phy_data/: Pairs of (Graph, Text) data collected by us
 - all_checkpoints/
   - MoMu-S.ckpt: Pretrained model  of MoMu-S
