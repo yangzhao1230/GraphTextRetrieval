@@ -66,7 +66,7 @@ python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_
 ```
 python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 0 --if_test 2 --if_zeroshot 1 --pth_test data/kv_data/test
 ```
-#### 4. zeroshot testing on phy_data with sentence-level:
+#### 4. zeroshot testing on kv_data with sentence-level:
 ```
 python main.py --init_checkpoint all_checkpoints/MoMu-S.ckpt --data_type 1 --if_test 2 --if_zeroshot 1 --pth_test data/kv_data/test
 ```
