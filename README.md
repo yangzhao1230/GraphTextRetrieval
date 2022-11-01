@@ -1,6 +1,7 @@
 
 # GraphTextRetrieval
 Source code for cross-modality retrieval for *[Natural Language-informed Understanding of Molecule Graphs](https://arxiv.org/abs/2209.05481)*. 
+Please go to [MoMu](https://github.com/ddz16/MoMu) to see the whole codebase.
 ## Workspace Prepare
 If you want to explore our job, you can following the instructions in this section
 - Step 1: Download the zip or clone the repository to your workspace.
