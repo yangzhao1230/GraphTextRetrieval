@@ -15,9 +15,9 @@ class GINMatchDataset(Dataset):
         self.graph_aug = args.graph_aug
         self.text_max_len = args.text_max_len
         self.graph_name_list = os.listdir(root+'graph/')
-        #self.graph_name_list.sort()
+        self.graph_name_list.sort()
         self.text_name_list = os.listdir(root+'text/')
-        #self.text_name_list.sort()
+        self.text_name_list.sort()
         self.tokenizer = BertTokenizer.from_pretrained('bert_pretrained/')
         self.data_type = args.data_type
 
@@ -63,7 +63,9 @@ class GINMatchDataset(Dataset):
 
     def augment(self, data, graph_aug):
 
-        if graph_aug == 'dnodes':
+        if graph_aug == 'noaug':
+            data_aug = deepcopy(data)
+        elif graph_aug == 'dnodes':
             data_aug = drop_nodes(deepcopy(data))
         elif graph_aug == 'pedges':
             data_aug = permute_edges(deepcopy(data))
