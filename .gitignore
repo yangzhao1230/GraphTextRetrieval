@@ -11,3 +11,9 @@
 /__pycache__
 
 data/
+gin_pretrained/
+init_checkpoints/
+kvplm_pretrained/
+logs/
+model/
+output/
