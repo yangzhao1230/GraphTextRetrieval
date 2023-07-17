@@ -1,1 +1,0 @@
-CN1C2=C(NC(=O)NC2=O)N(C1=O)C

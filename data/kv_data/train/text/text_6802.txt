@@ -1,1 +1,0 @@
-it is a polynucleotide comprised of uridine units connected via 3'->5' phosphodiester linkages. It contains an UMP 3'-end residue, an UMP 5'-end residue and a uridine 5'-monophosphate residue. 

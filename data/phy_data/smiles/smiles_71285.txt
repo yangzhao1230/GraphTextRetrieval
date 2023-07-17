@@ -1,1 +1,0 @@
-CC(CC1=CC2=C(C=C1)OCO2)NC.Cl

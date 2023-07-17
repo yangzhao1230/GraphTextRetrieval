@@ -1,1 +1,0 @@
-CCOC(=O)C1=C(C(=O)N(N1)C2=CC=C(C=C2)S(=O)(=O)[O-])N=NC3=CC=C(C4=CC=CC=C43)S(=O)(=O)[O-].[Na+].[Na+]

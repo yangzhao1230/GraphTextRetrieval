@@ -1,1 +1,0 @@
-CC(C)([C@@H](COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)O)O

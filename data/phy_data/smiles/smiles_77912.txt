@@ -1,1 +1,0 @@
-C1=C(C=C(C(=C1Br)O)Br)S(=O)(=O)O

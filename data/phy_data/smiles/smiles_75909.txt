@@ -1,1 +1,0 @@
-CCCCC1=CC=CC=C1N

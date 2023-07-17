@@ -1,1 +1,0 @@
-C[C@H]1[C@@H]2CC[C@]([C@@H]3[C@H]4[C@@H]5C=C([C@@]6([C@H]4C(=C3[C@H]2OC1=O)C)[C@@H]5[C@@](CC[C@@H]7[C@@H]6OC(=O)[C@H]7C)(C)O)C)(C)O

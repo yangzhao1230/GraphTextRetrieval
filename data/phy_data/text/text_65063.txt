@@ -1,1 +1,0 @@
-DUMP is a pyrimidine 2'-deoxyribonucleoside 5'-monophosphate having uracil as the nucleobase. It has a role as a metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a pyrimidine 2'-deoxyribonucleoside 5'-monophosphate and a deoxyuridine phosphate. It is a conjugate acid of a dUMP(2-).

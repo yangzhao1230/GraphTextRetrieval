@@ -1,1 +1,0 @@
-CN(C1=CC2=CC(=C(C(=C2C=C1)O)N=NC3=C(C4=C(C=C3)C(=CC=C4)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)C5=NC(=NC(=N5)Cl)Cl

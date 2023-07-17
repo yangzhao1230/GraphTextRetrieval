@@ -1,1 +1,0 @@
-C1=CC=C(C=C1)CCO[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O

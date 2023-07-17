@@ -1,1 +1,0 @@
-CN1C=C(N=C1)CC(=O)O

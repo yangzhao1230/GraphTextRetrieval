@@ -1,1 +1,0 @@
-CC(C)C1=C2CC[C@@]3([C@@H]([C@]2(CC1)C)CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCCC5(C)C)C)C)C

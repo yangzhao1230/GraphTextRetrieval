@@ -1,1 +1,0 @@
-CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2[C@@H](C3CCC2CC3)C(=O)O

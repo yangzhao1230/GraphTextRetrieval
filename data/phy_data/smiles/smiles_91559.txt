@@ -1,1 +1,0 @@
-C1[C@H](N=C(C=C1C=CN2[C@@H](CC3=CC(=C(C=C32)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C(=O)O)C(=O)O)C(=O)O

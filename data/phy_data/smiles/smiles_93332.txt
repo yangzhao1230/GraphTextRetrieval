@@ -1,1 +1,0 @@
-CC1=C(C(=O)C(=C(O1)OC)C[C@H]2C(=C)CC[C@H]3[C@]2(CC[C@@H]([C@]3(C)CCC(C)(C)O)O)C)C(=O)OC

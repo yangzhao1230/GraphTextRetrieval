@@ -1,1 +1,0 @@
-C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)NCCCC[C@@H](C(=O)O)N)NC(=O)N2

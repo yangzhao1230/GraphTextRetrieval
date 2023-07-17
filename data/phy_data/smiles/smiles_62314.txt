@@ -1,1 +1,0 @@
-CCCC[C@H](C)[C@H]([C@@H](C[C@H](C)C[C@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O)OC(=O)C[C@H](CC(=O)O)C(=O)O

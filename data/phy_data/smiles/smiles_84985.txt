@@ -1,1 +1,0 @@
-CCN(CC)C1=C(C=C(C=C1)[N+]#N)Cl.[Cl-].[Cl-].[Cl-].[Zn+2]

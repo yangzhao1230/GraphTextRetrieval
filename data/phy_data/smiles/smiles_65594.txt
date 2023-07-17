@@ -1,1 +1,0 @@
-CC(C)N1CC(C2=CC(=C(C=C21)O)N=NC(=O)N)O

@@ -1,1 +1,0 @@
-C1=CN(C(=O)N=C1N)C[C@@H](CO)OCP(=O)(O)O

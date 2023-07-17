@@ -1,1 +1,0 @@
-CC1=CCC[C@]2([C@H]1C[C@@H](CC2)C(C)(C)O)C

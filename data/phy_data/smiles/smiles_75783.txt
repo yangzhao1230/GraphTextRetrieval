@@ -1,1 +1,0 @@
-C1=CC(=CC=C1N=NC2=CC(=C(C=C2)N=NC3=C(C=C4C=C(C=CC4=C3O)NC(=O)NC5=CC6=CC(=C(C(=C6C=C5)O)N=NC7=C(C=C(C=C7)N=NC8=CC=C(C=C8)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]

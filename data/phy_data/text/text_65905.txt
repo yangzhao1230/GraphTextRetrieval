@@ -1,1 +1,0 @@
-Rociclovir is a purine nucleoside prodrug with activity against herpes simplex virus 1. In vivo, Rociclovir is converted to ganciclovir, which is further modified to its triphosphate form and inhibits viral DNA replication by competitive inhibition of viral DNA polymerases and incorporation into viral DNA, resulting in eventual termination of viral DNA elongation.

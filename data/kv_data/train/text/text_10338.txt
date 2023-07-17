@@ -1,1 +1,0 @@
-[des-Arg(9)]-bradykinin is an eight-membered oligopeptide comprising Arg, Pro, Pro, Gly, Phe, Ser, Pro and Phe residues joined in sequence. It is an analogue of bradykinin lacking the Arg residue at position 9. It has a role as a bradykinin receptor B2 agonist. It is a conjugate base of a [des-Arg(9)]-bradykinin(1+). 

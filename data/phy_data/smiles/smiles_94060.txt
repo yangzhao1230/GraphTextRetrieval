@@ -1,1 +1,0 @@
-CC(=CCC(CO)C(=C)C)C

@@ -1,1 +1,0 @@
-C[C@H]1[C@@H](CCC2=CC(=O)[C@]3([C@@H]([C@]12C)O3)C(=C)CO)O

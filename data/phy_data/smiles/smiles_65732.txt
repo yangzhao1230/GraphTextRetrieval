@@ -1,1 +1,0 @@
-C1=CC=C(C=C1)[N+]2=C3C=C(C=CC3=NC4=C2C=C(C=C4)N)N.[Cl-]

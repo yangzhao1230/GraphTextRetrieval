@@ -1,1 +1,0 @@
-CC=NC(C(C)O)C(=O)[O-].CC=NC(C(C)O)C(=O)[O-].O.O.[Fe+2]

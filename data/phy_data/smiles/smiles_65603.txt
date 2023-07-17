@@ -1,1 +1,0 @@
-C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@H]2[C@H]([C@@H]([C@@H]([C@@H]([C@H]2O)O)OC(=O)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(CO)O

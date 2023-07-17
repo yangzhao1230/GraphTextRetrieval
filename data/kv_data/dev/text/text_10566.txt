@@ -1,1 +1,0 @@
-Alpha-Neu5Ac-(2->3)-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer(d18:1/24:1(15Z)) is a sialotriaosylceramide consisting of beta-D-GalNAc-(1->4)-[alpha-Neu5Ac-(2->3)]-beta-D-Gal-(1->4)-beta-D-Glc attached to the primary hydroxy function of ceramide(d18:1/24:1(15Z)). It has a role as a mouse metabolite. It derives from a (15Z)-tetracosenoic acid. 

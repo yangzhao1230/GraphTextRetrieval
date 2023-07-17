@@ -1,1 +1,0 @@
-C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)N=C(N2)C(F)(F)F

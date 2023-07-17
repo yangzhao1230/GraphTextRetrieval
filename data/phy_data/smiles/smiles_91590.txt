@@ -1,1 +1,0 @@
-CC(C)(C)NC1=NC(=NC(=N1)NC2CC2)SC

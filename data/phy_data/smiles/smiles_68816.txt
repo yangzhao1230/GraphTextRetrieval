@@ -1,1 +1,0 @@
-C[C@@H](C(=O)NCC(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)O)NC(=O)[C@H](CC1=CNC2=CC=CC=C21)N

@@ -1,1 +1,0 @@
-C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)OC(=O)C4=CC=C(C=C4)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O

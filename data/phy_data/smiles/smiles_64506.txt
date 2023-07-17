@@ -1,1 +1,0 @@
-C1=CC=C(C=C1)[As](C#N)C2=CC=CC=C2

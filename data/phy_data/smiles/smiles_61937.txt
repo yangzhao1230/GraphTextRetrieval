@@ -1,1 +1,0 @@
-C1(=NC(=O)N(C(=O)N1Cl)Cl)[O-].C1(=NC(=O)N(C(=O)N1Cl)Cl)[O-].C1(=NC(=O)N(C(=O)N1Cl)Cl)[O-].C1(=NC(=O)N(C(=O)N1Cl)Cl)[O-].C1(=O)N(C(=O)N(C(=O)N1Cl)Cl)Cl.[K+].[K+].[K+].[K+]

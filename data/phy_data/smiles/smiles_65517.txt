@@ -1,1 +1,0 @@
-C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)[C@@H](C=C4[C@@]3(CC[C@@H](C4)O)C)O

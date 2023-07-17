@@ -1,1 +1,0 @@
-Insulin that has been modified so that the B-chain contains a LYSINE at position 28 instead of a PROLINE and a PROLINE at position 29 instead of a LYSINE. It is used to manage BLOOD GLUCOSE levels in patients with TYPE 2 DIABETES. 

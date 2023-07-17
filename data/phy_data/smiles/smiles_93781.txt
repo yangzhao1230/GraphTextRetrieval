@@ -1,1 +1,0 @@
-CCOCC1=CC=C(C=C1)O

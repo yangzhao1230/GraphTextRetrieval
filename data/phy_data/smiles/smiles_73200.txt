@@ -1,1 +1,0 @@
-COC1=C(C2=C(C[C@@H](CO2)C3=CC(=O)C=C(C3=O)O)C=C1)OC

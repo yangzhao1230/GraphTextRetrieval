@@ -1,1 +1,0 @@
-C[C@H](CC1=CC(=C(C=C1)O)O)[C@@H](C)CC2=CC(=C(C=C2)O)O

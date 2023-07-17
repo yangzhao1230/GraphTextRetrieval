@@ -1,1 +1,0 @@
-C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C(=O)C=C(C3=O)OC)O)CCCC2=C)C

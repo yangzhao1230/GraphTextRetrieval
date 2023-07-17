@@ -1,1 +1,0 @@
-CCCC(CC1=CC=C(C=C1)OCC[N+](C)(C)C)C2=CC=C(C=C2)OCC[N+](C)(C)C.[I-].[I-]

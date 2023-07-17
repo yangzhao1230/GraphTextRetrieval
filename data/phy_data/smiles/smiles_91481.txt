@@ -1,1 +1,0 @@
-C1=CC=C(C=C1)[Sn+](C2=CC=CC=C2)C3=CC=CC=C3

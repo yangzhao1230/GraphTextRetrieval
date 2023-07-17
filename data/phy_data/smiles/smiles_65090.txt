@@ -1,1 +1,0 @@
-C1=CC(=O)OC2=C(C3=C(C=CO3)C=C21)O

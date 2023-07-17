@@ -1,1 +1,0 @@
-CC(=CCCC(=CCCC(=CC=O)C)C)C

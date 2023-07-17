@@ -1,1 +1,0 @@
-CC(=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC)SC

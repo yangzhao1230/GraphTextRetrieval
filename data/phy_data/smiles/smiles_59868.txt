@@ -1,1 +1,0 @@
-CCCN[C@@H]1CCC2=C(C1)SC(=N2)N

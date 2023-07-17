@@ -1,1 +1,0 @@
-TMP is a pyrimidine ribonucleoside 5'-monophosphate in which the pyrimidine element is 5-methyluracil. Derived from breakdown of an RNA molecule, typically a tRNA modified at position 54 (U to T). It derives from a ribothymidine. It is a conjugate acid of a TMP(2-). 

@@ -1,1 +1,0 @@
-C=CCS(=O)C[C@@H](C(=O)O)N

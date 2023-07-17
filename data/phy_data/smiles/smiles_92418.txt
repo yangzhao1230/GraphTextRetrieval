@@ -1,1 +1,0 @@
-C[C@@H](C(=O)O)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl

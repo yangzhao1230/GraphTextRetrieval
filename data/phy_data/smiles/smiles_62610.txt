@@ -1,1 +1,0 @@
-C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-].C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-].[Ca+2]

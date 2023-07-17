@@ -1,1 +1,0 @@
-C1=CC2=C(C=C1S(=O)(=O)O)C(=C(N2)C3=NC4=C(C3=O)C=C(C=C4)S(=O)(=O)O)O.[Al+3]

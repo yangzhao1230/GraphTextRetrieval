@@ -1,1 +1,0 @@
-CC1=C2C(=CC=C1)N=CC=N2

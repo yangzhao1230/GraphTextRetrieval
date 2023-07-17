@@ -1,1 +1,0 @@
-CC(=O)C=CC12C(CCCC1(O2)C)(C)C

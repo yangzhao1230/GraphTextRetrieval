@@ -1,1 +1,0 @@
-CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1.O

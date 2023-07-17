@@ -1,1 +1,0 @@
-C1=C(C(=CC(=C1F)Br)F)F

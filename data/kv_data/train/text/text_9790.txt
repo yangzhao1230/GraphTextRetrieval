@@ -1,1 +1,0 @@
-it is a member of the class of guanidines in which the imino hydrogen of guanidine itself has been replaced by a 7-aminoheptyl group. It is an inhibitor of deoxyhypusine synthase activity (GO:0034038). It has a role as an EC 2.5.1.46 (deoxyhypusine synthase) inhibitor and an antineoplastic agent. It is a member of guanidines and a primary amino compound. 

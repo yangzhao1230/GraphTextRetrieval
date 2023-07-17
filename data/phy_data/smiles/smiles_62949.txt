@@ -1,1 +1,0 @@
-CC1=C(N=CN1)CS(=O)CCNC(=NC)NC#N

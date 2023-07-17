@@ -1,1 +1,0 @@
-CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=C(C=CC(=C3)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+]

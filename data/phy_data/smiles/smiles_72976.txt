@@ -1,1 +1,0 @@
-CC1(C[C@H]2C[C@]34C[C@]3([C@@H](OC4=O)O)C(=C2C1)C=O)C

@@ -1,1 +1,0 @@
-it is an anthranilamide derivative with multidrug resistance properties. it non-competitively binds to the p-glycoprotein transporter, thereby inhibiting transmembrane transport of anticancer drugs. Inhibition of transmembrane transport may result in increased intracellular concentrations of an anticancer drug, thereby augmenting its cytotoxicity. (NCI04) 

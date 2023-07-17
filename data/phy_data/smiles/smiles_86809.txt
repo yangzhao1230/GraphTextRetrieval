@@ -1,1 +1,0 @@
-CC1=CC(=CC(=C1N2C(=O)C(C(=N2)C)N=NC3=C(C=CC(=C3)S(=O)(=O)CCOS(=O)(=O)[O-])OC)Cl)S(=O)(=O)[O-].[Na+].[Na+]

@@ -1,1 +1,0 @@
-C1=CC2=C(C=C1N)SC3=CC(=[NH2+])C=CC3=N2.[Cl-]

@@ -1,1 +1,0 @@
-C1[C@H](N([C@H](S1)C2=CC=CC=C2O)C(=O)CCS)C(=O)O

@@ -1,1 +1,0 @@
-CC(CCN=C=O)CC(C)(C)CN=C=O

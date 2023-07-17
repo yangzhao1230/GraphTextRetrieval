@@ -1,1 +1,0 @@
-C[C@H]1[C@@H]2C[C@@H]3[C@@]45CO[C@]([C@@H]4[C@H](C(=O)O3)OC(=O)CC(C)C)([C@H]([C@@H]([C@@H]5[C@]2(C=C(C1=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)O)O)C(=O)OC

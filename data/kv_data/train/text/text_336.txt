@@ -1,1 +1,0 @@
-Temsirolimus is an ester analog of rapamycin. Temsirolimus binds to and inhibits the mammalian target of rapamycin (mTOR), resulting in decreased expression of mRNAs necessary for cell cycle progression and arresting cells in the G1 phase of the cell cycle. mTOR is a serine/threonine kinase which plays a role in the PI3K/AKT pathway that is upregulated in some tumors. 

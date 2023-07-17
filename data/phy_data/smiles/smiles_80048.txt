@@ -1,1 +1,0 @@
-CC(C)C1=CC(=C(C)C)CC[C@@]1(C)C=C

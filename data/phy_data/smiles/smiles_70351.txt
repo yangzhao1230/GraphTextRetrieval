@@ -1,1 +1,0 @@
-C1=CC(=CC=C1NN=C(C#N)C#N)Cl

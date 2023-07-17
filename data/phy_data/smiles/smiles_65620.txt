@@ -1,1 +1,0 @@
-CC1=NC2=C(C=C1)C(=CC(=C2O)Br)Br

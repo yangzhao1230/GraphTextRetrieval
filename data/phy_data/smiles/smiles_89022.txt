@@ -1,1 +1,0 @@
-CCNC1=NC(=NC(=N1)OC)NC(C)(C)C#N

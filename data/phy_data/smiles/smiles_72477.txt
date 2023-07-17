@@ -1,1 +1,0 @@
-COC1=CC=C(C=C1)C[C@@H](C(=O)N[C@H]2[C@H]([C@@H](O[C@@H]2C(=O)O)N3C=NC4=C(N=CN=C43)N)O)N

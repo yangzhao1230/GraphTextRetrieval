@@ -1,1 +1,0 @@
-TTP is a pyrimidine ribonucleoside 5'-triphosphate in which the pyrimidine element is 5-methyluracil. It is a conjugate acid of a TTP(4-). 

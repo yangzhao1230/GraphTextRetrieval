@@ -1,1 +1,0 @@
-CCCCNC1=CC(=C(C=C1)C(=O)OCCN(C)C)O

@@ -1,1 +1,0 @@
-CC(=O)O[C@@H]1C[C@@]2([C@H](C[C@H]([C@H]3C2=CC[C@](C3)(C)[C@H](CO)Br)O)[C@@]4([C@H]1C4)C)C

@@ -1,1 +1,0 @@
-C1=C(NC(=N1)N)[C@@H]([C@H](CN)Cl)O

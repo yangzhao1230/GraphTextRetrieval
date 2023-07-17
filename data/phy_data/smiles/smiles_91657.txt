@@ -1,1 +1,0 @@
-CC1=NC=C(C(=N1)N)CNC(=O)N(CCCl)N=O.Cl

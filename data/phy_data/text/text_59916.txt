@@ -1,1 +1,0 @@
-Piroxantrone is an anthrapyrazole antineoplastic antibiotic.  Piroxantrone intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair and RNA and protein synthesis.  Although less cardiotoxic than doxorubicin, this agent exhibits a narrow spectrum of antineoplastic activity. (NCI04)

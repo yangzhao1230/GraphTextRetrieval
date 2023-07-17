@@ -1,1 +1,0 @@
-CC(=O)NC1=CC=C(C=C1)SC[C@@H](C(=O)O)N

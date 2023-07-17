@@ -1,1 +1,0 @@
-A class of opioid peptides including it A, it B, and smaller fragments of these peptides. it prefer kappa-opioid receptors (RECEPTORS, OPIOID, KAPPA) and have been shown to play a role as central nervous system transmitters. 

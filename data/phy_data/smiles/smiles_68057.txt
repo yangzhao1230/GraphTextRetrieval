@@ -1,1 +1,0 @@
-CC1=CC2=C(C=C1)C(CCC2)(C)C

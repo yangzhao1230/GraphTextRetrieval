@@ -1,1 +1,0 @@
-C1=CC(=CC=C1O)OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I

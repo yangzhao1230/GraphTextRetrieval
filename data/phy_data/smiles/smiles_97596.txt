@@ -1,1 +1,0 @@
-CC1CC23C(=C1)C=C(C(=O)C=CC(CC(=C(C2=O)C)O3)(C)C)C

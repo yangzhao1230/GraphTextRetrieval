@@ -1,1 +1,0 @@
-CC(=O)N(C)C1=C(C(=C(C(=C1I)NC(=O)[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)I)C(=O)NCCO)I

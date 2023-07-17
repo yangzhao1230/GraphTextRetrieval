@@ -1,1 +1,0 @@
-DUTP is a deoxyuridine phosphate having a triphosphate group at the 5'-position. It has a role as a human metabolite, an Escherichia coli metabolite, a mouse metabolite and an Arabidopsis thaliana metabolite. It is a pyrimidine 2'-deoxyribonucleoside 5'-triphosphate and a deoxyuridine phosphate. It is a conjugate acid of a dUTP(3-).

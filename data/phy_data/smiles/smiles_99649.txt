@@ -1,1 +1,0 @@
-CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O

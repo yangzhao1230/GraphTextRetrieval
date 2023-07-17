@@ -1,1 +1,0 @@
-Dihydro-5-Azacytidine is a synthetic nucleoside analogue of deoxycytidine. Dihydro-5-azacytidine inhibits DNA methyltransferase, thereby interfering with abnormal DNA methylation patterns that are associated with genetic instability in some tumor cells. Inhibition of this enzyme may restore expression of tumor-suppressor genes and result in antitumor activity. (NCI04) 

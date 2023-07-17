@@ -1,1 +1,0 @@
-C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CN3

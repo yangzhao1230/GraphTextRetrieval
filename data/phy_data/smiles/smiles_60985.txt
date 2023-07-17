@@ -1,1 +1,0 @@
-CC(C)C(=O)OCCC(C)CCC=C(C)C

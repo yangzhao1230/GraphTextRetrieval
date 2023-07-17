@@ -1,1 +1,0 @@
-C=CC1=CC=CC2=CC=CC=C21

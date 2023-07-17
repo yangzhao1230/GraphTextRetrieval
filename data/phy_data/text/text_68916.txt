@@ -1,1 +1,0 @@
-Epiroprim is a trimethoprim analogue and selective inhibitor of microbial dihydrofolate reductase, with antibacterial activity. Epiroprim inhibits the bacterial enzyme dihydrofolate reductase, selectively blocking the conversion of dihydrofolic acid to tetrahydrofolic acid. By depleting folate molecules, epiroprim inhibits bacterial nucleic acid synthesis.

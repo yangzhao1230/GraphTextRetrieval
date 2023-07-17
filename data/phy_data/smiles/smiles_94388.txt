@@ -1,1 +1,0 @@
-CC1(C2=CC=CC=C2N=C1SC3=CC=CC=C3[N+](=O)[O-])Br

@@ -1,1 +1,0 @@
-CC(C)(C)C(=O)OC1=C(C=C(C=C1)C(CNC)O)OC(=O)C(C)(C)C.Cl

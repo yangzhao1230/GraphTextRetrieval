@@ -1,1 +1,0 @@
-CC(=O)O[C@H]1CCN2[C@H]1CC[C@@H](C2)N

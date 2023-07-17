@@ -1,1 +1,0 @@
-CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC

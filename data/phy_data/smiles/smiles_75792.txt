@@ -1,1 +1,0 @@
-C1CC(=O)NC(=O)[C@@H]1N2C(=O)C3=CC=CC=C3C2=O

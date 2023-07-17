@@ -1,1 +1,0 @@
-DTDP-alpha-D-glucose is a dTDP-sugar having alpha-D-glucopyranose as the sugar portion. It has a role as an Escherichia coli metabolite and a mouse metabolite. It is a conjugate acid of a dTDP-alpha-D-glucose(2-). 

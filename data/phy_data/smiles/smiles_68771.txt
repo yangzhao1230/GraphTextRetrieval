@@ -1,1 +1,0 @@
-CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=C(N4[C@](C2)(C(=O)OC)O)C=C(C=C5)Br

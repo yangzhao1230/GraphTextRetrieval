@@ -1,1 +1,0 @@
-C1C[C@@H](O[C@@H]1CO)N2C=CC(=O)NC2=O

@@ -1,1 +1,0 @@
-1,3,6,8-tetraazatricyclo[6.2.1.1(3,6)]dodecane is an azatricycloalkane that is tricyclo[6.2.1.1(3,6)]dodecane in which the four bridgehead CH groups are replaced by nitrogen atoms. It is a small-molecule BAX agonist. It has a role as an apoptosis inducer and an antineoplastic agent. It is a bridged compound, a tetramine and an azatricycloalkane.

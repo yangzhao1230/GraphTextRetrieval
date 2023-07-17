@@ -1,1 +1,0 @@
-CC1=CCOC(C1)C=C(C)C

@@ -1,1 +1,0 @@
-C1=CC=C(C(=C1)C2=C3C=CC(=[NH2+])C=C3OC4=C2C=CC(=C4)N)C(=O)O.[Cl-]

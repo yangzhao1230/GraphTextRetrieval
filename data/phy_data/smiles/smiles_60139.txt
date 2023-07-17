@@ -1,1 +1,0 @@
-CC(C(C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(C(C)O)C(=O)O)NC(=O)C(CO)NC(=O)C(C)N)O

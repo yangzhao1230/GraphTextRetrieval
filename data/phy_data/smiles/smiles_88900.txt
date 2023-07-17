@@ -1,1 +1,0 @@
-C[C@@H]1CC[C@@H]2[C@]13CC=C([C@H](C3)C2(C)C)CO

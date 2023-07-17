@@ -1,1 +1,0 @@
-CN(C1=C(C=C(C(=C1I)N)I)I)C(=O)CCCC(=O)O

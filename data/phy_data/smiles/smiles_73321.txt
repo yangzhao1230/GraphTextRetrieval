@@ -1,1 +1,0 @@
-CC(=O)OC[C@]12[C@@H]([C@@H]([C@@H]3[C@H]([C@]14C([C@H]([C@@H]([C@@H]2OC(=O)C)OC(=O)C5=COC=C5)OC(=O)C(CCC6=C(C=CC=N6)C(=O)OC[C@@]3(O4)C)(C)O)(C)O)OC(=O)C)OC(=O)C)OC(=O)C

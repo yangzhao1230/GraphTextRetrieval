@@ -1,1 +1,0 @@
-CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C

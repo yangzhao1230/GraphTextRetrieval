@@ -1,1 +1,0 @@
-C[C@]12CCCC([C@@H]1CC[C@]3([C@@H]2C=C4C=C(C(=O)C=C4O3)O)C)(C)C

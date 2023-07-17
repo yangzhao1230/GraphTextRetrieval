@@ -1,1 +1,0 @@
-DdTTP is a pyrimidine 2',3'-dideoxyribonucleoside 5'-triphosphate having thymine as the nucleobase. It is a thymidine phosphate and a pyrimidine 2',3'-dideoxyribonucleoside 5'-triphosphate. It is a conjugate acid of a ddTTP(4-).

@@ -1,1 +1,0 @@
-CC1(C2=CC=CC=C2N(C3=CC=CC=C31)CCCN(C)C)C.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O

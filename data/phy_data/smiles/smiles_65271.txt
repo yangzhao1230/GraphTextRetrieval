@@ -1,1 +1,0 @@
-CC(=O)NCSCC(C(=O)O)N

@@ -1,1 +1,0 @@
-C1=CC(C=CC1CC[C@@H](C(=O)O)N)N

@@ -1,1 +1,0 @@
-C1=NC(=O)NC(=C1CO)N

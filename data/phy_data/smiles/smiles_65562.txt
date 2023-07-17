@@ -1,1 +1,0 @@
-C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O

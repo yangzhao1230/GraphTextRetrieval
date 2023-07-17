@@ -1,1 +1,0 @@
-C1=CC(=CC=C1CCC2=CC=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]

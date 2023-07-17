@@ -1,1 +1,0 @@
-CN(C)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](C)C)C=C3O2)C4=C(C=C(C=C4)SC#N)C(=O)O.[Cl-]

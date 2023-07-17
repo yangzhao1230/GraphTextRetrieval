@@ -1,1 +1,0 @@
-CN1C=C(N=C1)C[C@@H](C(=O)O)N

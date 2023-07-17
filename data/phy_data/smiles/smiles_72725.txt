@@ -1,1 +1,0 @@
-C1=CC=C2C(=C1)N=C3C=C(C(=O)C=C3O2)N

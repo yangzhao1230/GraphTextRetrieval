@@ -1,1 +1,0 @@
-C1=C(C=C(C(=C1Br)O)Br)C2(C3=C(C(=C(C(=C3Br)Br)Br)Br)S(=O)(=O)O2)C4=CC(=C(C(=C4)Br)O)Br

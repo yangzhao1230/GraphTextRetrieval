@@ -1,1 +1,0 @@
-C[C@]12CCC(C[C@H]1[C@@]3(CC[C@@H]4[C@]5(CCC(=O)C([C@@H]5CC[C@]4(C3=CC2)C)(C)C)C)C)(C)C

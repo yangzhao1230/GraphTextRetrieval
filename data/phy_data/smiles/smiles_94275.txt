@@ -1,1 +1,0 @@
-C[C@H]1CCC2=C(CC[C@H](C[C@@H]12)C(=C)C)C

@@ -1,1 +1,0 @@
-C1CCC(CC1)C2=C(C=C(C=C2)C(=O)CCC(=O)O)Cl

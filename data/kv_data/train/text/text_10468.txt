@@ -1,1 +1,0 @@
-it is a thirteen-membered polypeptide comprising the sequence Trp-His-Trp-Leu-Gln-Leu-Lys-Pro-Gly-Gln-Pro-Met-Tyr. Corresponds to the P01149[90-102] fragment of mating factor alpha-1 from Saccharomyces cerevisiae (strain ATCC 204508/S288c). It has a role as a Saccharomyces cerevisiae metabolite. 

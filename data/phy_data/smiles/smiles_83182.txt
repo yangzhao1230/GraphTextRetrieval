@@ -1,1 +1,0 @@
-CC(C)N(C(C)C)C(C(=O)OC[C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)N(C(C)C)C(C)C

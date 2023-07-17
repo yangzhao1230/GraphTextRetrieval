@@ -1,1 +1,0 @@
-C1=NN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O

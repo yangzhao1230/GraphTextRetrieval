@@ -1,1 +1,0 @@
-C[C@H]1[C@H]2[C@H]([C@H]([C@@H](O1)O[C@@H]3[C@H]([C@@H](CO[C@H]3OC(=O)[C@@]45CC[C@@]6(C(=CC[C@]7([C@]6(CC[C@H]8[C@@]7(C[C@@H]([C@@H]([C@@]8(C)CO)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)C(=O)C[C@](CC(=O)O2)(C)O)O)O)O)O)C)C)C)[C@@]4(CC(CC5)(C)C)C)C)O)O)O)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O
