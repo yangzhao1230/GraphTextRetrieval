@@ -7,8 +7,7 @@
 #
 /finetune_save
 
-#
-/__pycache__
+__pycache__/
 
 data/
 gin_pretrained/
