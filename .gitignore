@@ -17,3 +17,6 @@ kvplm_pretrained/
 logs/
 model/
 output/
+
+# slurm
+*out
