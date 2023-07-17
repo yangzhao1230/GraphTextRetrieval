@@ -14,7 +14,6 @@ gin_pretrained/
 init_checkpoints/
 kvplm_pretrained/
 logs/
-model/
 output/
 
 # slurm
